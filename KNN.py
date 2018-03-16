@@ -79,7 +79,7 @@ if __name__ == "__main__":
         knn_list_dic = knn.solve()
         len_dic = len(knn_list_dic)
 
-
-        print("For peer : ",item, " result KNN :" ,knn_list_dic)
-        # for d in knn_list_dic:
-        #     print(d)
+        print("For peer :",item, "result KNN:" ,knn_list_dic)
+        # for dict_item in knn_list_dic:
+        #     
+        #
